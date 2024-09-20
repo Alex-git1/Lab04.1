@@ -1,0 +1,5 @@
+﻿  Lab04.1.cpp
+C:\Student\PI-12\Symodeiko\AP\Lab04.1\Lab04.1\Lab04.1\Lab04.1.cpp(13,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Student\PI-12\Symodeiko\AP\Lab04.1\Lab04.1\Lab04.1\Lab04.1.cpp(21,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Student\PI-12\Symodeiko\AP\Lab04.1\Lab04.1\Lab04.1\Lab04.1.cpp(29,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Lab04.1.vcxproj -> C:\Student\PI-12\Symodeiko\AP\Lab04.1\Lab04.1\x64\Debug\Lab04.1.exe
